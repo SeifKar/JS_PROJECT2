@@ -1,0 +1,1 @@
+The following functions are as stated in JavaScript 2 checkpoint project.
